@@ -1,0 +1,3 @@
+CSC-1700, Introduction to Computer Programming, 4
+CSC-2200, Web Development, 4
+CSC-2300, Computer Architecture, 4
